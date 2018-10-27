@@ -1,6 +1,6 @@
 <?php
 
-class HUEBridge extends IPSModule
+class SymBEE extends IPSModule
 {
     public function Create()
     {

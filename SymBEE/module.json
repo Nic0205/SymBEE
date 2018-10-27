@@ -1,0 +1,14 @@
+{
+    "id": "{58877918-2846-4211-A880-71CB10423042}",
+    "name": "SymBEE",
+    "type": 3,
+    "vendor": "",
+    "aliases": 
+    [
+        "SymBEE"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "bee"
+}
